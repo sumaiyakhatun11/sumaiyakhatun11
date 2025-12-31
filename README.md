@@ -10,14 +10,14 @@
 ---
 
 ## 🚀 About Me
-I’m a passionate web developer who loves building modern, responsive, and user-friendly web applications.  
+I'm a passionate web developer who loves building modern, responsive, and user-friendly web applications.  
 I enjoy learning new technologies and turning ideas into real-world products.  
 Always curious, always improving, always shipping — and a fast learner ⚡
 
 ---
 
 ## 🔭 Current Activities
-- 🎓 I’m pursuing **B.Sc in CSE** at **PUST**
+- 🎓 I'm pursuing **B.Sc in CSE** at **PUST**
 - 🌱 Exploring **Next.js**
 - 🤝 Developing a **client website for an international admission agency**
 - 💡 Learning **scalable frontend architecture best practices**
@@ -41,6 +41,15 @@ Always curious, always improving, always shipping — and a fast learner ⚡
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>
+</p>
+
+### 💻 Other Skills
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40"/>
 </p>
 
 ### 🧰 Tools
